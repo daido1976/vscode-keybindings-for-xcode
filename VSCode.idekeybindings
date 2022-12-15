@@ -444,10 +444,6 @@
 		<dict>
 			<key></key>
 			<array>
-				<string>scrollToEndOfDocument:</string>
-				<string>scrollToBeginningOfDocument:</string>
-				<string>selectToMark:</string>
-				<string>swapWithMark:</string>
 				<string>moveParagraphBackwardAndModifySelection:</string>
 				<array>
 					<string>moveBackward:</string>
@@ -459,8 +455,6 @@
 				</array>
 				<string>moveParagraphForwardAndModifySelection:</string>
 			</array>
-			<key>^x</key>
-			<string>deleteLine:</string>
 			<key></key>
 			<string>deleteForward:</string>
 		</dict>
