@@ -4,11 +4,17 @@ VS Code keybindings for Xcode.
 
 ## Installation
 
-Download the file to `~/Library/Developer/Xcode/UserData/KeyBindings/VSCode.idekeybindings`. Then select `VSCode` in `Xcode > Settings > Key Bindings`.
+### 1.
+
+Download the file to `~/Library/Developer/Xcode/UserData/KeyBindings/VSCode.idekeybindings`.
 
 ```sh
 $ curl https://raw.githubusercontent.com/daido1976/vscode-keybindings-for-xcode/main/VSCode.idekeybindings -o ~/Library/Developer/Xcode/UserData/KeyBindings/VSCode.idekeybindings
 ```
+
+Then select `VSCode` in `Xcode > Settings > Key Bindings`.
+
+### 2.
 
 And apply `Show Previous Tab/Show Next Tab` shortcuts for tab switching in `System Settings > Keyboard Shortcuts > App Shortcuts`.
 
