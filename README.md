@@ -10,7 +10,10 @@ $ curl https://raw.githubusercontent.com/daido1976/vscode-keybindings-for-xcode/
 
 ## Development
 
+Change the keybindings on Xcode and export the configuration file.
+
 ```sh
 $ git clone https://github.com/daido1976/vscode-keybindings-for-xcode.git <CLONE_DIR_PATH>
-$ ln -sf <CLONE_DIR_PATH>/VSCode.idekeybindings ~/Library/Developer/Xcode/UserData/KeyBindings/VSCode.idekeybindings
+# Change the keybindings on Xcode...
+$ \cp -f ~/Library/Developer/Xcode/UserData/KeyBindings/VSCode.idekeybindings <CLONE_DIR_PATH>/VSCode.idekeybindings
 ```
