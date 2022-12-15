@@ -11,7 +11,6 @@ $ curl https://raw.githubusercontent.com/daido1976/vscode-keybindings-for-xcode/
 ## Development
 
 ```sh
-# require clone this repository
 $ git clone https://github.com/daido1976/vscode-keybindings-for-xcode.git <CLONE_DIR_PATH>
-$ ln -sf <CLONE_DIR_PATH> ~/Library/Developer/Xcode/UserData/KeyBindings/VSCode.idekeybindings
+$ ln -sf <CLONE_DIR_PATH>/VSCode.idekeybindings ~/Library/Developer/Xcode/UserData/KeyBindings/VSCode.idekeybindings
 ```
