@@ -4,7 +4,7 @@ VS Code keybindings for Xcode.
 
 ## Installation
 
-1. Download the keybindings. Then select `VSCode` in `Xcode > Settings > Key Bindings`.
+1. Download the keybindings in this repository. Then select `VSCode` in `Xcode > Settings > Key Bindings`.
 
 ```sh
 $ curl https://raw.githubusercontent.com/daido1976/vscode-keybindings-for-xcode/main/VSCode.idekeybindings -o ~/Library/Developer/Xcode/UserData/KeyBindings/VSCode.idekeybindings
